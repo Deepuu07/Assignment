@@ -36,6 +36,7 @@ payment method button.
 
 • The order status should show like “Order placed, thank you”.
 
+
 Test Case 2: Scenario: Amazon cart should be empty after Successful
 order.
 
@@ -60,6 +61,7 @@ order.
 • The amazon cart should be empty.
 
 • It should show a message like “Your Amazon Cart is empty”
+
 
 Test Case 3: Scenario: proceed to buy orders in empty cart
 
